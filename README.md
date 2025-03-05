@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://grchetan.github.io/](https://grchetan.github.io/)
+- 👨‍💻 All of my projects are available at [https://chetanprajapat.com](https://chetanprajapat.com/)
 
 - 📫 How to reach me **chetanprajapat340@gmail.com**
-
-- 📄 Know about my experiences [https://grchetan.github.io/](https://grchetan.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
