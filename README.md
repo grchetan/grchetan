@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://chetanprajapat.com](https://chetanprajapat.com/)
+- 👨‍💻 All of my projects are available at [https://chetanprajapat.com](https://grchetan.github.io)
 
 - 📫 How to reach me **chetanprajapat340@gmail.com**
 
