@@ -8,7 +8,7 @@ Passionate about building modern web applications and solving coding problems.
 </p>
 
 ---
-
+<img src="https://github-profile-trophy.vercel.app/?username=grchetan&theme=radical&margin-w=10&margin-h=10"/>
 # 🚀 About Me
 
  Web Developer passionate about building modern applications  
