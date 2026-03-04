@@ -53,8 +53,7 @@ Passionate about building modern web applications and solving coding problems.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=grchetan&show_icons=true&theme=radical&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=grchetan&theme=radical&border_radius=10" height="160"/>
 
 
 
