@@ -16,3 +16,33 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/grchetan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grchetan" /></a></p><br><br>
+
+
+---
+
+## 📊 GitHub Stats
+
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=grchetan&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=grchetan&theme=radical)
+
+---
+
+## 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grchetan&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/grchetan
+- Instagram: Add your link here
+
+---
+
+⭐ From [Chetan Prajapat](https://github.com/grchetan)
