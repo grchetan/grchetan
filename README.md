@@ -61,6 +61,10 @@ Passionate about building modern web applications and solving coding problems.
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Chetan+Prajapat;Full+Stack+Web+Developer;Java+DSA+Learner;Building+Awesome+Web+Apps" />
+</p>
+
 
 
 #  Featured Project
