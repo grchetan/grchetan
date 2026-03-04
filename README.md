@@ -1,11 +1,8 @@
+<h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Chetan+Prajapat;Full+Stack+Web+Developer;Java+DSA+Learner;Building+Awesome+Web+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Java+DSA+Learner;Building+Awesome+Web+Apps" />
 </p>
-
-<h3 align="center">
-Full Stack Web Developer • Java DSA Learner • Problem Solver
-</h3>
-
 <p align="center">
 Passionate about building modern web applications and solving coding problems.
 </p>
