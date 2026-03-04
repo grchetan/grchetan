@@ -81,11 +81,25 @@ A devotional web platform where users can type **Radha Naam** and appear on a **
 
 ---
 
-#  Achievements
+## 🏆 Achievements
 
-- Built full stack projects
-- Practicing **LeetCode & DSA**
-- Improving problem solving skills daily
+<p>
+🥈 **2nd Prize — Tech Meme Competition**  
+Issued by **Sunstone Tech Club**
+
+🥉 **3rd Position — Tech Treasure Hunt**  
+Issued by **Sunstone**
+
+<img src="https://img.shields.io/badge/🥈%202nd%20Prize-Tech%20Meme%20Competition-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🥉%203rd%20Position-Tech%20Treasure%20Hunt-orange?style=for-the-badge"/>
+
+</p>
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=grchetan&theme=radical&margin-w=10&margin-h=10"/>
+
+- Organized and participated in competitive tech events  
+- Strong interest in **problem solving and development**
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=react-dark"/>
