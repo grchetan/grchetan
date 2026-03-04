@@ -9,7 +9,7 @@ Passionate about building modern web applications and solving coding problems.
 
 ---
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chetan%20Prajapat&fontSize=40&animation=fadeIn"/>
 </p>
 
 # 🚀 About Me
