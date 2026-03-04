@@ -46,3 +46,131 @@
 ---
 
 ⭐ From [Chetan Prajapat](https://github.com/grchetan)
+
+
+<h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
+
+<h3 align="center">
+Full Stack Web Developer • Java DSA Learner • Problem Solver
+</h3>
+
+<p align="center">
+Passionate about building modern web applications and solving coding problems.
+</p>
+
+---
+
+# 🚀 About Me
+
+💻 Web Developer passionate about building modern applications  
+🌱 Currently learning **Data Structures & Algorithms in Java**  
+⚡ Interested in **Full Stack Development**  
+🎯 Goal: Become a **Top Software Developer**  
+🔥 Love building **creative and useful projects**
+
+---
+
+# 🧠 Tech Stack
+
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧠 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=grchetan&show_icons=true&theme=radical&border_radius=10" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=grchetan&theme=radical&border_radius=10" height="160"/>
+
+</p>
+
+---
+
+# 📈 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grchetan&layout=compact&theme=radical&border_radius=10"/>
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🌐 Devotion Hub
+
+A devotional web platform where users can type **Radha Naam** and appear on a **real-time leaderboard**.
+
+### ✨ Features
+
+✔ Real-time leaderboard  
+✔ Session based tracking  
+✔ Abuse protection system  
+✔ Admin dashboard  
+✔ MongoDB database integration  
+
+### 🛠 Tech Used
+
+---
+
+# 🏆 Achievements
+
+- Built full stack projects
+- Practicing **LeetCode & DSA**
+- Improving problem solving skills daily
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/grchetan">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+<h3 align="center">⭐ From Chetan Prajapat</h3>
