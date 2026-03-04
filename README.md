@@ -62,15 +62,7 @@ Passionate about building modern web applications and solving coding problems.
 
 ---
 
-#  Top Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grchetan&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 #  Featured Project
 
