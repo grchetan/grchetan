@@ -56,7 +56,7 @@ Passionate about building modern web applications and solving coding problems.
 
 <img src="https://github-readme-stats.vercel.app/api?username=grchetan&show_icons=true&theme=radical&border_radius=10" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=grchetan&theme=radical&border_radius=10" height="160"/>
+
 
 </p>
 
@@ -94,9 +94,7 @@ Issued by **Sunstone**
 <img src="https://img.shields.io/badge/🥉%203rd%20Position-Tech%20Treasure%20Hunt-orange?style=for-the-badge"/>
 
 </p>
-## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=grchetan&theme=radical&margin-w=10&margin-h=10"/>
 
 - Organized and participated in competitive tech events  
 - Strong interest in **problem solving and development**
