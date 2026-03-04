@@ -3,6 +3,13 @@
 </p>
 
 
+<h2 align="center">⚙ Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,java,git,github,vscode"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
 
 <p align="center">
