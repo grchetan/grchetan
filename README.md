@@ -3,13 +3,6 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Chetan%20Prajapat&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<h2 align="center">📊 Coding Activity</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=react-dark"/>
-
-
 <h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
 
 <p align="center">
