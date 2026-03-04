@@ -1,21 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chetan%20Prajapat&fontSize=40&animation=fadeIn"/>
 </p>
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="700">
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=react-dark"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=grchetan&theme=radical&margin-w=10"/>
 
 
 <h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
