@@ -3,11 +3,11 @@
 </p>
 
 
-<h2 align="center">⚙ Tech Stack</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Chetan%20Prajapat&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,java,git,github,vscode"/>
-</p>
+<h2 align="center">📊 Coding Activity</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=react-dark"/>
 
 
 <h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
