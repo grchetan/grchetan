@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chetan%20Prajapat&fontSize=40&animation=fadeIn"/>
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="700">
+</p>
 <h1 align="center">Hi 👋, I'm Chetan Prajapat</h1>
 
 <p align="center">
@@ -8,9 +14,7 @@ Passionate about building modern web applications and solving coding problems.
 </p>
 
 ---
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chetan%20Prajapat&fontSize=40&animation=fadeIn"/>
-</p>
+>
 
 # 🚀 About Me
 
