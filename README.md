@@ -22,7 +22,7 @@ Passionate about building modern web applications and solving coding problems.
  Goal: Become a **Top Software Developer**  
  Love building **creative and useful projects**
 - 👨‍💻 All of my projects are available at [https://chetanprajapat.com](https://grchetan.github.io)
-- 📫 How to reach me **chetanprajapat340@gmail.com**
+- 📫 How to reach me **contact.chetanprajapat@gmail.com**
 ---
 
 # 🧠 Tech Stack
