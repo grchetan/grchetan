@@ -63,22 +63,6 @@ Passionate about building modern web applications and solving coding problems.
 
 </p>
 
----
-
-
-#  Featured Project
-
-##  Devotion Hub
-
-A devotional web platform where users can type **Radha Naam** and appear on a **real-time leaderboard**.
-
-###  Features
-
-✔ Real-time leaderboard  
-✔ Session based tracking  
-✔ Abuse protection system  
-✔ Admin dashboard  
-✔ MongoDB database integration  
 
 
 ---
