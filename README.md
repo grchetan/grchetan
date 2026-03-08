@@ -12,7 +12,7 @@ Passionate about building modern web applications and solving coding problems.
 </p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 # 🚀 About Me
 
