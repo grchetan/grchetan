@@ -1,129 +1,184 @@
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=250&section=header&text=Hii,%20I'm%20Chetan%20Prajapat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Java+DSA+Learner;Building+Awesome+Web+Apps" />
-</p>
-<p align="center">
-Passionate about building modern web applications and solving coding problems.
-</p>
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=grchetan&label=Profile%20Views&color=0e75b6&style=flat)
+<div align="center">
 
-# 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Chetan%20Prajapat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Freelancer&descSize=18&descAlignY=65&descColor=a78bfa"/>
 
- Web Developer passionate about building modern applications  
- Currently learning **Data Structures & Algorithms in Java**  
- Interested in **Full Stack Development**  
- Goal: Become a **Top Software Developer**  
- Love building **creative and useful projects**
-- 👨‍💻 All of my projects are available at [https://chetanprajapat.com](https://grchetan.github.io)
-- 📫 How to reach me **contact.chetanprajapat@gmail.com**
----
+</div>
 
-# 🧠 Tech Stack
+<div align="center">
 
-### 💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+Dev;Turning+ideas+into+real+products;DSA+Grinder+%E2%80%94+Java+mode+ON+%E2%98%95;Open+to+Freelance+%26+Collabs+%F0%9F%A4%9D" />
 
-### ⚙ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+</div>
 
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+<div align="center">
 
-### 🧠 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-grchetan.github.io-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://grchetan.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-contact.chetanprajapat-7c3aed?style=for-the-badge&labelColor=1e1b4b)](mailto:contact.chetanprajapat@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=grchetan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/grchetan)
 
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## `> whoami`
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=grchetan&theme=radical&border_radius=10" height="160"/>
+```javascript
+const chetan = {
+  name     : "Chetan Prajapat",
+  role     : "Full Stack Developer & Freelancer",
+  education: "BCA @ Sage University, Indore (2024 → Present)",
+  location : "Indore, Madhya Pradesh 🇮🇳",
+  learning : ["Data Structures & Algorithms", "Java", "System Design"],
+  building : "Modern, scalable & SEO-optimized web apps",
+  available: true  // open to freelance & collaborations
+};
+```
 
+---
 
+## ⚡ Tech Arsenal
 
-</p>
+<div align="center">
 
+**Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🛠️ Projects
+
+> Things I've actually built — not just tutorials.
+
+| # | Project | What it is | Live |
+|---|---------|-----------|------|
+| 🔥 | **[Nexus — Social Network](https://github.com/grchetan/nexus-app)** | LinkedIn-style fullstack app (React + Node + MongoDB + JWT) | — |
+| 🌍 | **[Travel Itinerary Generator](https://grchetan.github.io/Travel-Itinerary-Generator/)** | AI-powered trip planner | [↗](https://grchetan.github.io/Travel-Itinerary-Generator/) |
+| 💪 | **[FitBridge](https://github.com/grchetan/fitbridge)** | Freelance fitness tracking platform | — |
+| 📖 | **[Bhagavad Gita App](https://grchetan.github.io/bhagwat-gita/)** | Spiritual web app with full content | [↗](https://grchetan.github.io/bhagwat-gita/) |
+| 🌤️ | **[Weather App](https://grchetan.github.io/weather-app/)** | Real-time weather using API | [↗](https://grchetan.github.io/weather-app/) |
+| 🎮 | **[Gaming Website](https://grchetan.github.io/game/)** | Interactive gaming UI | [↗](https://grchetan.github.io/game/) |
+| 💼 | **[SiteReadyPro](https://grchetan.github.io/sitereadypro/)** | Business website template | [↗](https://grchetan.github.io/sitereadypro/) |
+| 🖥️ | **[ROG Asus Clone](https://grchetan.github.io/Rog-Asus/)** | High-fidelity frontend clone | [↗](https://grchetan.github.io/Rog-Asus/) |
 
 ---
 
 ## 🏆 Achievements
 
-<p>
-🥈 **2nd Prize — Tech Meme Competition**  
-Issued by **Sunstone Tech Club**
+<div align="center">
 
-🥉 **3rd Position — Tech Treasure Hunt**  
-Issued by **Sunstone**
+| 🥈 | **2nd Prize — Tech Meme Competition** | Sunstone Tech Club |
+|---|---|---|
+| 🥉 | **3rd Position — Tech Treasure Hunt** | Sunstone |
 
-<img src="https://img.shields.io/badge/🥈%202nd%20Prize-Tech%20Meme%20Competition-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🥉%203rd%20Position-Tech%20Treasure%20Hunt-orange?style=for-the-badge"/>
+</div>
 
-</p>
-
-
-- Organized and participated in competitive tech events  
-- Strong interest in **problem solving and development**
-
----
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=react-dark"/>
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://github.com/grchetan">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://instagram.com/chetanprajapat_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/chetanprajapat07/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/chetan-prajapat-58350b285/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/grchetan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="grchetan" /></a></p><br><br>
-
-#  Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-</p>
+Competed in technical events that tested creativity, problem-solving, and quick thinking under pressure.
 
 ---
 
-<h3 align="center">From Chetan Prajapat</h3>
+## 📊 GitHub Stats
 
+<div align="center">
 
-//
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=grchetan&theme=tokyonight&border_radius=12&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=888888" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=grchetan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grchetan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=6" height="165"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=a78bfa"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+```
+📍 Sage University, Indore     →  BCA (Full Stack)         2024 - Present
+📍 Keshav International School →  Senior Secondary (XII)   2023 - 2024
+📍 Rebenok Infotech, Mumbai    →  Computer Training         2021 - 2022
+📍 Keshav International School →  Secondary (X)            2020 - 2021
+```
+
+---
+
+## 🌐 Find Me Here
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grchetan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-prajapat-58350b285/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chetanprajapat_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chetanprajapat07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://grchetan.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Like my work? Buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/grchetan)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+build+something+great+together!&fontSize=18&fontColor=a78bfa&animation=fadeIn"/>
+
+</div>
