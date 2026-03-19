@@ -1,17 +1,9 @@
-
-
-
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Chetan%20Prajapat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Freelancer&descSize=18&descAlignY=65&descColor=a78bfa"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Chetan%20Prajapat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Freelancer&descSize=18&descAlignY=65&descColor=a78bfa"/>
 </div>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+Dev;Turning+ideas+into+real+products;DSA+Grinder+%E2%80%94+Java+mode+ON+%E2%98%95;Open+to+Freelance+%26+Collabs+%F0%9F%A4%9D" />
-
 </div>
 
 <div align="center">
@@ -24,21 +16,103 @@
 
 ---
 
-## `> whoami`
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TERMINAL BOOT SECTION — unique idea #1                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```javascript
-const chetan = {
-  name     : "Chetan Prajapat",
-  role     : "Full Stack Developer & Freelancer",
-  education: "BCA @ Sage University, Indore (2024 → Present)",
-  location : "Indore, Madhya Pradesh 🇮🇳",
-  learning : ["Data Structures & Algorithms", "Java", "System Design"],
-  building : "Modern, scalable & SEO-optimized web apps",
-  available: true  // open to freelance & collaborations
-};
+```bash
+$ ssh chetan@github.com
+> Connected to: grchetan ✅
+> Loading profile...
+
+[■■■■■■■■■■■■■■■■■■■■] 100% — Done!
+
+$ cat whoami.json
+```
+
+```json
+{
+  "name"      : "Chetan Prajapat",
+  "role"      : "Full Stack Developer & Freelancer",
+  "education" : "BCA @ Sage University, Indore (2024 → Present)",
+  "location"  : "Indore, Madhya Pradesh 🇮🇳",
+  "currently" : ["Building Nexus — a fullstack social network app"],
+  "learning"  : ["DSA in Java", "System Design", "MongoDB Advanced"],
+  "available" : true,
+  "coffee"    : "always ☕"
+}
+```
+
+```bash
+$ status --check
+  ✅  Open to freelance projects
+  ✅  Open to collaborations
+  ✅  Open to internship / job opportunities
+  🔨  Currently building something cool...
 ```
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CURRENTLY BUILDING — unique idea #2 (live project status)  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🔨 Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+**⚡ Nexus — Social Network**
+```
+Stack  : React + Node.js + MongoDB
+Auth   : JWT
+Upload : Multer (images/videos)
+Status : 🟢 Active Development
+```
+A LinkedIn-style fullstack app with real auth, posts, chat, jobs and profile uploads.
+
+</td>
+<td width="50%">
+
+**💪 FitBridge — Fitness Platform**
+```
+Stack  : HTML + CSS + JS + Backend
+Type   : Freelance Project
+Status : 🟡 In Progress
+```
+A fitness tracking platform — workout plans, diet tracker and body transformation logs.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SKILL BARS — unique idea #3                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 💻 Skills & Proficiency
+
+```
+React.js        ████████████████████░░   85%
+Node.js         ███████████████████░░░   80%
+JavaScript      ████████████████████░░   85%
+HTML & CSS      █████████████████████░   90%
+MongoDB         ████████████████░░░░░░   70%
+Java (DSA)      ███████████░░░░░░░░░░░   50%  ← grinding 💪
+Python          ████████████░░░░░░░░░░   55%
+SQL             ████████████████░░░░░░   70%
+Git & GitHub    ████████████████████░░   85%
+Figma           ████████████░░░░░░░░░░   55%
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TECH BADGES                                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Arsenal
 
@@ -73,39 +147,85 @@ const chetan = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROJECTS TABLE                                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Projects
 
 > Things I've actually built — not just tutorials.
 
-| # | Project | What it is | Live |
-|---|---------|-----------|------|
-| 🔥 | **[Nexus — Social Network](https://github.com/grchetan/nexus-app)** | LinkedIn-style fullstack app (React + Node + MongoDB + JWT) | — |
-| 🌍 | **[Travel Itinerary Generator](https://grchetan.github.io/Travel-Itinerary-Generator/)** | AI-powered trip planner | [↗](https://grchetan.github.io/Travel-Itinerary-Generator/) |
-| 💪 | **[FitBridge](https://github.com/grchetan/fitbridge)** | Freelance fitness tracking platform | — |
-| 📖 | **[Bhagavad Gita App](https://grchetan.github.io/bhagwat-gita/)** | Spiritual web app with full content | [↗](https://grchetan.github.io/bhagwat-gita/) |
-| 🌤️ | **[Weather App](https://grchetan.github.io/weather-app/)** | Real-time weather using API | [↗](https://grchetan.github.io/weather-app/) |
-| 🎮 | **[Gaming Website](https://grchetan.github.io/game/)** | Interactive gaming UI | [↗](https://grchetan.github.io/game/) |
-| 💼 | **[SiteReadyPro](https://grchetan.github.io/sitereadypro/)** | Business website template | [↗](https://grchetan.github.io/sitereadypro/) |
-| 🖥️ | **[ROG Asus Clone](https://grchetan.github.io/Rog-Asus/)** | High-fidelity frontend clone | [↗](https://grchetan.github.io/Rog-Asus/) |
+| # | Project | Stack | What it is | Live |
+|---|---------|-------|-----------|------|
+| 🔥 | **[Nexus — Social Network](https://github.com/grchetan/nexus-app)** | React · Node · MongoDB | LinkedIn-style fullstack app with JWT auth, posts, chat, file uploads | — |
+| 🌍 | **[Travel Itinerary Generator](https://grchetan.github.io/Travel-Itinerary-Generator/)** | JS · API | AI-powered trip planner | [↗](https://grchetan.github.io/Travel-Itinerary-Generator/) |
+| 💪 | **[FitBridge](https://github.com/grchetan/fitbridge)** | Full Stack | Freelance fitness tracking platform | — |
+| 📖 | **[Bhagavad Gita App](https://grchetan.github.io/bhagwat-gita/)** | HTML · CSS · JS | Spiritual web app with full content | [↗](https://grchetan.github.io/bhagwat-gita/) |
+| 🌤️ | **[Weather App](https://grchetan.github.io/weather-app/)** | JS · API | Real-time weather using API | [↗](https://grchetan.github.io/weather-app/) |
+| 🎮 | **[Gaming Website](https://grchetan.github.io/game/)** | HTML · CSS · JS | Interactive gaming UI | [↗](https://grchetan.github.io/game/) |
+| 💼 | **[SiteReadyPro](https://grchetan.github.io/sitereadypro/)** | HTML · CSS | Business website template | [↗](https://grchetan.github.io/sitereadypro/) |
+| 🖥️ | **[ROG Asus Clone](https://grchetan.github.io/Rog-Asus/)** | HTML · CSS · JS | High-fidelity frontend clone | [↗](https://grchetan.github.io/Rog-Asus/) |
 
 ---
 
-## 🏆 Achievements
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FUN DEV FACTS — unique idea #4                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## ⚡ Quick Dev Facts
+
+<table>
+<tr>
+<td>
+
+```
+🕐  Coding since    →  2021
+☕  Coffees today   →  lost count
+🐛  Bugs fixed      →  many
+🐛  Bugs created    →  also many
+💡  Best ideas come →  at 2 AM
+🎧  Codes better    →  with music on
+📍  Based in        →  Indore, MP
+🎯  2025 goal       →  Land first dev job
+```
+
+</td>
+<td>
+
+```
+📚  Currently reading  →  CLRS (DSA Bible)
+🔥  Streak goal        →  365 days on GitHub
+🛠   Side projects      →  always 3 at once
+🌐  Languages known    →  JS, Java, Python
+🤝  Collaborations     →  open!
+💼  Freelance clients  →  2 so far
+🏆  Hackathons         →  competed & won
+🚀  Next target        →  System Design
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TROPHIES — unique idea #5                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| 🥈 | **2nd Prize — Tech Meme Competition** | Sunstone Tech Club |
-|---|---|---|
-| 🥉 | **3rd Position — Tech Treasure Hunt** | Sunstone |
+<img src="https://github-profile-trophy.vercel.app/?username=grchetan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 
 </div>
-
-Competed in technical events that tested creativity, problem-solving, and quick thinking under pressure.
 
 ---
 
@@ -126,30 +246,79 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 ---
 
-## 📈 Contribution Graph
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 3D CONTRIBUTION CALENDAR — unique idea #6                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📅 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=a78bfa"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ACHIEVEMENTS                                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🥈 | **2nd Prize — Tech Meme Competition** | Sunstone Tech Club |
+|:---:|:---|:---|
+| 🥉 | **3rd Position — Tech Treasure Hunt** | Sunstone |
+
+</div>
+
+> Competed in technical events testing creativity, problem-solving and quick thinking under pressure.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- EDUCATION TIMELINE — unique idea #7                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎓 Education Timeline
+
+```
+2024 ━━━┓
+        ┣━━ 🎓  BCA — Full Stack Dev @ Sage University, Indore  (ongoing)
+2024 ━━━┛
+
+2023 ━━━┓
+        ┣━━ 📚  Senior Secondary XII (CBSE) @ Keshav International School, Jhabua
+2024 ━━━┛
+
+2021 ━━━┓
+        ┣━━ 💻  Computer Training @ Rebenok Infotech, Mumbai
+2022 ━━━┛
+
+2020 ━━━┓
+        ┣━━ 📖  Secondary X (CBSE) @ Keshav International School, Jhabua
+2021 ━━━┛
+```
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
 
-## 🎓 Education
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- RANDOM DEV QUOTE — unique idea #8 (changes every refresh)  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```
-📍 Sage University, Indore     →  BCA (Full Stack)         2024 - Present
-📍 Keshav International School →  Senior Secondary (XII)   2023 - 2024
-📍 Rebenok Infotech, Mumbai    →  Computer Training         2021 - 2022
-📍 Keshav International School →  Secondary (X)            2020 - 2021
-```
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+
+</div>
 
 ---
 
@@ -178,7 +347,5 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's+build+something+great+together!&fontSize=18&fontColor=a78bfa&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Let's+build+something+great+together!&fontSize=18&fontColor=a78bfa&animation=fadeIn"/>
 </div>
