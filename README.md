@@ -31,7 +31,7 @@ const chetan = {
   name     : "Chetan Prajapat",
   role     : "Full Stack Developer & Freelancer",
   education: "BCA @ Sage University, Indore (2024 → Present)",
-  location : "Indore, Madhya Pradesh 🇮🇳",
+  location : "Indore, Madhya Pradesh ",
   learning : ["Data Structures & Algorithms", "Java", "System Design"],
   building : "Modern, scalable & SEO-optimized web apps",
   available: true  // open to freelance & collaborations
