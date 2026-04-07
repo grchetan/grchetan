@@ -132,16 +132,6 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 ## 🎓 Education
 
 ```
