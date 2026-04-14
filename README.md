@@ -144,16 +144,6 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=grchetan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=a78bfa"/>
 
----
-
-## 🎓 Education
-
-```
-📍 Sage University, Indore     →  BCA (Full Stack)         2024 - Present
-📍 Keshav International School →  Senior Secondary (XII)   2023 - 2024
-📍 Rebenok Infotech, Mumbai    →  Computer Training         2021 - 2022
-📍 Keshav International School →  Secondary (X)            2020 - 2021
-```
 
 ---
 
