@@ -26,7 +26,6 @@
 const chetan = {
   name     : "Chetan Prajapat",
   role     : "Full Stack Developer & Freelancer",
-  education: "BCA Full Stack Developer",
   location : "Indore, Madhya Pradesh ",
   learning : ["Data Structures & Algorithms", "Java", "System Design"],
   building : "Modern, scalable & SEO-optimized web apps",
