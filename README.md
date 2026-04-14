@@ -147,42 +147,42 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 ---
 
-## 🤝 Let's Connect
+## 🔗 Connect with Me
 
-<div align="center">
-
-*I'm always open to interesting conversations, collaborations, and new opportunities.*
-
-<br/>
-
-<a href="https://github.com/grchetan">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/chetan-prajapat-58350b285/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/chetanprajapat_">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:contact.chetanprajapat@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/chetanprajapat07/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://grchetan.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-```
-💬  Got a project idea?   →  Let's build it together.
-🤝  Looking to collab?    →  My DMs are always open.
-💼  Need a freelancer?    →  I'm available!
-```
-
-</div>
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=700&q=80" width="100%" style="border-radius:10px;" alt="aesthetic night"/>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <br/>
+      <a href="https://instagram.com/chetanprajapat_">
+        <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="mailto:contact.chetanprajapat@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/chetan-prajapat-58350b285/">
+        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://leetcode.com/u/chetanprajapat07/">
+        <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/grchetan">
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://grchetan.github.io">
+        <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
