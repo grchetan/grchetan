@@ -18,7 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-grchetan.github.io-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://grchetan.github.io)
 [![Email](https://img.shields.io/badge/📧_Email-contact.chetanprajapat-7c3aed?style=for-the-badge&labelColor=1e1b4b)](mailto:contact.chetanprajapat@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=grchetan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/grchetan)
+[![FANS](https://komarev.com/ghpvc/?username=grchetan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/grchetan)
 
 </div>
 
