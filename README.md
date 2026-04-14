@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Chetan%20Prajapat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Freelancer&descSize=18&descAlignY=65&descColor=a78bfa"/>
@@ -109,6 +105,24 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 ---
 
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/chetanprajapat07?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" width="495"/>
+
+</div>
+
+<div align="center">
+
+> *"Every problem solved is a step closer to thinking like a machine — and breaking it."*
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-chetanprajapat07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chetanprajapat07/)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -143,15 +157,40 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 ---
 
-## 🌐 Find Me Here
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grchetan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-prajapat-58350b285/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chetanprajapat_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chetanprajapat07/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://grchetan.github.io)
+*I'm always open to interesting conversations, collaborations, and new opportunities.*
+
+<br/>
+
+<a href="https://github.com/grchetan">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/chetan-prajapat-58350b285/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/chetanprajapat_">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:contact.chetanprajapat@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/chetanprajapat07/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve%20Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://grchetan.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```
+💬  Got a project idea?   →  Let's build it together.
+🤝  Looking to collab?    →  My DMs are always open.
+💼  Need a freelancer?    →  I'm available!
+```
 
 </div>
 
