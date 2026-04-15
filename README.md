@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-grchetan.github.io-7c3aed?style=for-the-badge&labelColor=1e1b4b)](https://grchetan.github.io)
 [![Email](https://img.shields.io/badge/📧_Email-contact.chetanprajapat-7c3aed?style=for-the-badge&labelColor=1e1b4b)](mailto:contact.chetanprajapat@gmail.com)
-[![FANS](https://komarev.com/ghpvc/?username=grchetan&style=for-the-badge&color=7c3aed&label=FANS)](https://github.com/grchetan)
+[![FANS](https://komarev.com/ghpvc/?username=grchetan&style=for-the-badge&color=7c3aed&label=FANS)](https://.com/grchetan)
 
 </div>
 
@@ -172,10 +172,6 @@ Competed in technical events that tested creativity, problem-solving, and quick 
         <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
       </a>
       &nbsp;
-      <a href="https://github.com/grchetan">
-        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br/><br/>
       <a href="https://grchetan.github.io">
         <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" />
       </a>
