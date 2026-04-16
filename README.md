@@ -5,6 +5,7 @@
 </div>
 
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+the+web%2C+one+line+at+a+time+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+Dev;Turning+ideas+into+real+products;DSA+Grinder+%E2%80%94+Java+mode+ON+%E2%98%95;Open+to+Freelance+%26+Collabs+%F0%9F%A4%9D" />
@@ -30,7 +31,7 @@ const chetan = {
   location : "Indore, Madhya Pradesh ",
   learning : ["Data Structures & Algorithms", "Java", "System Design"],
   building : "Modern, scalable & SEO-optimized web apps",
-  available: true  // open to freelance & collaborations
+  available: true  /// open to freelance & collaborations
 };
 ```
 
