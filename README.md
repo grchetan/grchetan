@@ -31,7 +31,7 @@ const chetan = {
   location : "Indore, Madhya Pradesh ",
   learning : ["Data Structures & Algorithms", "Java", "System Design"],
   building : "Modern, scalable & SEO-optimized web apps",
-  available: true  /// open to freelance & collaborations
+  available: true  // open to freelance & collaborations
 };
 ```
 
