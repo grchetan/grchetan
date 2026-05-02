@@ -1,6 +1,6 @@
 <div align="center">
 
-sd
+
   
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Chetan%20Prajapat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Freelancer&descSize=18&descAlignY=65&descColor=a78bfa"/>
 
