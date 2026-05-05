@@ -126,20 +126,7 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=grchetan&theme=tokyonight&border_radius=12&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=a78bfa&sideLabels=7c3aed&dates=888888" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=grchetan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grchetan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff&langs_count=6" height="165"/>
-
-</div>
 
 ---
 
