@@ -112,11 +112,14 @@ Competed in technical events that tested creativity, problem-solving, and quick 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/chetanprajapat07?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" width="495"/>
+<img src="https://leetcard.jacoblin.cool/chetanprajapat07?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12&hide=ranking" width="495"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+![Easy](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/chetanprajapat07&query=$.easySolved&label=Easy&color=22c55e&style=for-the-badge)
+![Medium](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/chetanprajapat07&query=$.mediumSolved&label=Medium&color=f59e0b&style=for-the-badge)
+![Hard](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/chetanprajapat07&query=$.hardSolved&label=Hard&color=ef4444&style=for-the-badge)
+![Total](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/chetanprajapat07&query=$.totalSolved&label=Total+Solved&color=a78bfa&style=for-the-badge)
 
 > *"Every problem solved is a step closer to thinking like a machine — and breaking it."*
 
