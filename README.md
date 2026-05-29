@@ -82,14 +82,22 @@ const chetan = {
 
 | # | Project | What it is | Live |
 |---|---------|-----------|------|
-| 🔥 | **[Nexus — Social Network](https://github.com/grchetan/nexus-app)** | LinkedIn-style fullstack app (React + Node + MongoDB + JWT) | — |
+| 🔥 | **[Nexus — Social Network](https://github.com/grchetan/nexus)** | LinkedIn-style fullstack app (React + Node + MongoDB + JWT) | — |
 | 🌍 | **[Travel Itinerary Generator](https://grchetan.github.io/Travel-Itinerary-Generator/)** | AI-powered trip planner | [↗](https://grchetan.github.io/Travel-Itinerary-Generator/) |
 | 💪 | **[FitBridge](https://github.com/grchetan/fitbridge)** | Freelance fitness tracking platform | — |
-| 📖 | **[Bhagavad Gita App](https://grchetan.github.io/bhagwat-gita/)** | Spiritual web app with full content | [↗](https://grchetan.github.io/bhagwat-gita/) |
+| 📖 | **[Bhagavad Gita App](https://grchetan.github.io/bhagwat-gita/)** | Spiritual web app with all 18 chapters & Sanskrit shlokas | [↗](https://grchetan.github.io/bhagwat-gita/) |
 | 🌤️ | **[Weather App](https://grchetan.github.io/weather-app/)** | Real-time weather using API | [↗](https://grchetan.github.io/weather-app/) |
 | 🎮 | **[Gaming Website](https://grchetan.github.io/game/)** | Interactive gaming UI | [↗](https://grchetan.github.io/game/) |
 | 💼 | **[SiteReadyPro](https://grchetan.github.io/sitereadypro/)** | Business website template | [↗](https://grchetan.github.io/sitereadypro/) |
 | 🖥️ | **[ROG Asus Clone](https://grchetan.github.io/Rog-Asus/)** | High-fidelity frontend clone | [↗](https://grchetan.github.io/Rog-Asus/) |
+| 📚 | **[Question Paper Vault](https://github.com/grchetan/question-paper-vault)** | Modern PYQ platform built with React + Firebase + Supabase | — |
+| 🔐 | **[Time Vault](https://github.com/grchetan/time-vault)** | AES-256 encrypted password locker behind a timer (React + Firebase) | — |
+| 🎨 | **[Pixora](https://grchetan.github.io/Pixora/)** | Sleek image/visual platform built with HTML + CSS + JS | [↗](https://grchetan.github.io/Pixora/) |
+| 📒 | **[UdharBook](https://github.com/grchetan/udharbook)** | Personal lending tracker — apna udha track karo asaani se | — |
+| 📄 | **[ResumeXpert](https://github.com/grchetan/resumexpert)** | AI-powered resume analyzer & builder (Python) | — |
+| 🌐 | **[My Portfolio](https://grchetan.github.io/My-Portfolio/)** | Personal developer portfolio — skills, projects & contact | [↗](https://grchetan.github.io/My-Portfolio/) |
+| 🖥️ | **[WorkDesk](https://github.com/grchetan/workdesk)** | All-in-one productivity dashboard — tasks, notes & quick links | — |
+| 💻 | **[Freelance Work](https://github.com/grchetan/frealance-work-2)** | Real-world client projects built with TypeScript | — |
 
 ---
 
