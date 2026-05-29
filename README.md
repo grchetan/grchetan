@@ -91,7 +91,7 @@ const chetan = {
 | 7 | **[SiteReadyPro](https://github.com/grchetan/sitereadypro)** | Business website template | [↗](https://sitereadypro.vercel.app/) |
 | 8 | **[Travel Itinerary Generator](https://grchetan.github.io/Travel-Itinerary-Generator/)** | AI-powered trip planner | [↗](https://grchetan.github.io/Travel-Itinerary-Generator/) |
 | 9 | **[Bhagavad Gita App](https://grchetan.github.io/bhagwat-gita/)** | Spiritual web app with all 18 chapters & Sanskrit shlokas | [↗](https://grchetan.github.io/bhagwat-gita/) |
-| 10 | **[FitBridge](https://github.com/grchetan/fitbridge)** | Freelance fitness tracking platform | — |
+| 10 | **[FitBridge](https://github.com/grchetan/fitbridge)** | Freelance fitness tracking platform | [↗](https://grchetan.github.io/fitbridge/) |
 | 11 | **[Weather App](https://grchetan.github.io/weather-app/)** | Real-time weather using API | [↗](https://grchetan.github.io/weather-app/) |
 | 12 | **[ROG Asus Clone](https://grchetan.github.io/Rog-Asus/)** | High-fidelity frontend clone | [↗](https://grchetan.github.io/Rog-Asus/) |
 | 13 | **[Pixora](https://grchetan.github.io/Pixora/)** | Sleek image/visual platform built with HTML + CSS + JS | [↗](https://grchetan.github.io/Pixora/) |
